@@ -23,9 +23,7 @@ A simple and secure file upload system demonstrating Software Development Securi
 2️⃣  Install Flask:
      pip install flask
 
-3️⃣  Save this file as: app.py
-
-4️⃣  Run the app:
+3️⃣  Run the app:
      python app.py
 
 5️⃣  Open your browser and go to:
