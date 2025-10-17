@@ -20,5 +20,5 @@ A simple and secure file upload system demonstrating Software Development Securi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/secure-file-upload.git
+   git clone https://github.com/Fenil-Shilodre/secure-file-upload.git
    ```
